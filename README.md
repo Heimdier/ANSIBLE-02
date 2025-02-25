@@ -1,5 +1,12 @@
 Подготовил inventory-файл  https://github.com/Heimdier/ANSIBLE-02/blob/main/playbook/inventory/prod.yml
 
+дописал play, который устанавливает и настраивает vector    https://github.com/Heimdier/ANSIBLE-02/blob/main/playbook/site.yml
+
+для настройки vector добавил template vector.toml.j2 со стандартным конфигом  https://github.com/Heimdier/ANSIBLE-02/blob/main/playbook/template/vector.toml.j2
+
+
+
+
 
 Запустил плэйбук site.yml - clickhouse установился успешно   
 
