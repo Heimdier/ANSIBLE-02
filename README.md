@@ -4,7 +4,13 @@
 
 для настройки vector добавил template vector.toml.j2 со стандартным конфигом  https://github.com/Heimdier/ANSIBLE-02/blob/main/playbook/template/vector.toml.j2
 
+Запустил линтер ansible-lint, получил горы ошибок    
 
+![image](https://github.com/user-attachments/assets/4aa2fe9d-8dda-4898-8e8c-691874366d25)
+
+все поправил    
+
+![image](https://github.com/user-attachments/assets/d1459527-1958-43d0-b533-1b07560e59b3)
 
 
 
