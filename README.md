@@ -45,7 +45,7 @@ vector:
    Выполните команду для запуска playbook:
 
 ```shell
-   ansible-playbook -i inventory.ini site.yml
+   ansible-playbook -i inventory/prod.yml site.yml
 ```
    
 ## Роли и задачи
