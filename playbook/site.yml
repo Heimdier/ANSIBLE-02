@@ -68,6 +68,6 @@
     - name: Configure Vector | Template config
       become: true
       ansible.builtin.template:
-        src: "template/vector.yml.j2"
+        src: "template/vector.toml.j2"
         dest: "{{ vector_config_dir }}/{{ vector_config_file }}"
         mode: "0644"
