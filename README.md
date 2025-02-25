@@ -25,6 +25,11 @@
 
 ![image](https://github.com/user-attachments/assets/a7ee29cb-c3c2-42bb-819d-9d7339f34137)
 
+Заходим на хост, проверяем:    
+
+![image](https://github.com/user-attachments/assets/289bdd37-333c-4a99-ad5c-94c1e5da7dee)
+
+Все ок!
 
 
 
