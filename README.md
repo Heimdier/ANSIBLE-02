@@ -12,13 +12,21 @@
 
 ![image](https://github.com/user-attachments/assets/d1459527-1958-43d0-b533-1b07560e59b3)
 
+Запустил плэйбук site.yml с флагом --check    получил ошибку, так как нет скачанных пакетов clickhouse
+
+![image](https://github.com/user-attachments/assets/7745b721-65cc-487b-bfb6-de31d8147f76)
+
+запустил плэйбук с флагом --diff    
+
+![image](https://github.com/user-attachments/assets/33b7daff-f650-406f-a51a-bba9e38c304d)
+![image](https://github.com/user-attachments/assets/872111f8-88db-40f1-a727-303896891c31)
+
+Повторно запустил playbook с флагом --diff убедился что playbook идемпотентен
+
+![image](https://github.com/user-attachments/assets/a7ee29cb-c3c2-42bb-819d-9d7339f34137)
 
 
-Запустил плэйбук site.yml - clickhouse установился успешно   
 
-![image](https://github.com/user-attachments/assets/786c33a2-fd75-4f28-b2ae-0517ace22260)
-
-![image](https://github.com/user-attachments/assets/83a84cc1-9c76-4985-8ce0-d36ef7bed8ed)
 
 
 
