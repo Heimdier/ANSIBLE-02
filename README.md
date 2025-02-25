@@ -16,9 +16,9 @@
 
 - `clickhouse_version`: Версия Clickhouse, которую следует установить.
 - `clickhouse_packages`: Список пакетов Clickhouse для установки.
-- `vector_version`: версич vector
+- `vector_version`: версия vector
 - `vector_config_dir`: путь до файла конфигурации vector
-- `vector_config_file`: имя файлай конфигурации vector
+- `vector_config_file`: имя файла конфигурации vector
 
 ## Инструкции по установке
 
